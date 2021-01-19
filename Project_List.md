@@ -14,5 +14,4 @@
 |10| Image Compression     | Not done | 1|
 |11| Spam detection in SMS  | Not done |6|
 |12| Standard NN            | Not done | 3 |
-|13| UNet                   |Not done| 13|
-|14|Sentiment Prediction    |Not done| 14| 
+|13| UNet                   |Not done| 13| 
