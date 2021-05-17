@@ -11,7 +11,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Abhinav Sharma
-1. I am a machine learning enthusiast with an appetite for algorithms.  
+1. I am a machine learning enthusiast with an appetite for robotics and algorithms.  
 2. At times I work on backend development majorly with express, node and mongodb.
 3. Doing my undergrad from IIIT-Delhi in Computer Science and Engg.
 4. Currently working on generating captions from articles using LSTM's.
