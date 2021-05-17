@@ -16,6 +16,5 @@
 3. Doing my undergrad from IIIT-Delhi in Computer Science and Engg.
 4. Currently working on generating captions from articles using LSTM's.
 5. If you wanna geek about about Mughal history, I am your go to person.
-6. Looking for oppurtunities that amalgamate both backend development and machine learning.
 
 ⭐️ From [Abhinav Sharma](https://github.com/AbhinavS99/)
