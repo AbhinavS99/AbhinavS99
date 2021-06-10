@@ -15,6 +15,7 @@
 2. At times I work on backend development majorly with express, node and mongodb.
 3. Doing my undergrad from IIIT-Delhi in Computer Science and Engg.
 4. Currently working on generating captions from articles using LSTM's and Generating Code Comments using Graph Neural Networks.
-5. If you wanna geek about about Mughal history, I am your go to person.
+5. Further intellectual property rights have intrigued me.
+6. If you wanna geek about about Mughal history, I am your go to person.
 
 ⭐️ From [Abhinav Sharma](https://github.com/AbhinavS99/)
